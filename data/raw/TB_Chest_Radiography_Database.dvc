@@ -1,0 +1,6 @@
+outs:
+- md5: edc0df46ce62ded330caa56896046380.dir
+  size: 694671204
+  nfiles: 4203
+  hash: md5
+  path: TB_Chest_Radiography_Database
